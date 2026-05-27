@@ -1,4 +1,5 @@
-# 🌡️ Temperature Converter
+# 🌡️ # Temperature-Converter
+1-Month Software Engineering Internship at SkillCraft Technology | First Task: Temperature Converter Project 🚀
 
 A modern and responsive web application that converts temperatures between **Celsius**, **Fahrenheit**, and **Kelvin** scales instantly.
 
